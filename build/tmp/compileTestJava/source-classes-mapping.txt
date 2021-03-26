@@ -1,0 +1,8 @@
+org/example/poorApi/web/core/BaseApiTestWithServer.java
+ org.example.poorApi.web.core.BaseApiTestWithServer
+org/example/poorApi/web/core/BaseApiTest.java
+ org.example.poorApi.web.core.BaseApiTest
+org/example/poorApi/web/core/TestClient.java
+ org.example.poorApi.web.core.TestClient
+org/example/poorApi/web/SensitiveDataControllerTest.java
+ org.example.poorApi.web.SensitiveDataControllerTest
